@@ -7261,3 +7261,22 @@ fatal: no se ha configurado upstream para la rama 'master'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/adrianradice/React/App1/curso/citas/src/components/Formulario.jsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 31067151b3064e15683f57c03bc1bc48e1e783c2
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :src/components/Formulario.jsx
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

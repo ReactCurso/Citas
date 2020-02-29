@@ -2,6 +2,7 @@
     "telemetry.machineId": "bd95a3db21f379a18aaadd3ae8b7feaebee55dea39373c1f7e67746f3a1613cf",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/adrianradice/React/App1/curso/presupuesto",
             "file:///home/adrianradice/React/App1/curso/citas"
         ],
         "files2": []
@@ -49,7 +50,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/adrianradice/React/App1/curso/citas",
+                                        "fsPath": "/home/adrianradice/React/App1/curso/presupuesto",
+                                        "external": "file:///home/adrianradice/React/App1/curso/presupuesto",
+                                        "path": "/home/adrianradice/React/App1/curso/presupuesto",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/adrianradice/React/App1/curso/presupuesto"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/adrianradice/React/App1/curso/citas",
                                         "path": "/home/adrianradice/React/App1/curso/citas",
                                         "scheme": "file"
@@ -1443,8 +1455,8 @@
     "themeBackground": "#272822",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/adrianradice/React/App1/curso/citas",
-            "backupPath": "/home/adrianradice/React/App1/curso/citas/Backups/b8b30e09c132c6c7a6b5eaefd39d153e",
+            "folder": "file:///home/adrianradice/React/App1/curso/presupuesto",
+            "backupPath": "/home/adrianradice/React/App1/curso/citas/Backups/3736acc851a5a5ec67f30bb58e197f31",
             "uiState": {
                 "mode": 0,
                 "x": 346,
